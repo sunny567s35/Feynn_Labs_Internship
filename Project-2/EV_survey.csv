@@ -1,0 +1,184 @@
+State_UT,Area_of_Living,Age,Annual_Income,Own_EV,Reason_own,EV_type,EV_price,EV_Manufacturar,EV_Range,EV_Recomendation,EV_Interest,EV_Interest_Type,EV_Budget,EV_Interest_Reason,Vehicle_Preference
+Telangana,Urban,19,10 - 15 Lakh,No,,,,,,,Yes,2 Wheeler,20000,High fuel prices,Electric Vehicles
+Maharashtra,Urban,21,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,100000,High fuel prices,Electric Vehicles
+Maharashtra,Rural,20,< 5 Lakh,No,,,,,,,Yes,,,,Electric Vehicles
+Maharashtra,Urban,20,10 - 15 Lakh,Yes,High fuel Prices,2 Wheeler,125000,Bajaj,90,Yes,Yes,4 Wheeler,500000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,27,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,2000000,Better performance,Electric Vehicles
+Telangana,Urban,18,5 - 10 Lakh,Yes,High fuel Prices,2 Wheeler,80000,Okinawa,40,No,No,4 Wheeler,500000,High fuel prices,Internal Combustion Vehicles
+Maharashtra,Urban,29,10 - 15 Lakh,No,,,,,,,Yes,2 Wheeler,100000,High fuel prices,Internal Combustion Vehicles
+Telangana,Urban,18,< 5 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,100000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,21,5 - 10 Lakh,Yes,High fuel Prices,2 Wheeler,100000,Ola,150,Yes,No,4 Wheeler,,High fuel prices,Electric Vehicles
+Karnataka,Urban,23,5 - 10 Lakh,Yes,Environmentally better,2 Wheeler,100000,Ather,40,Yes,Yes,2 Wheeler,200000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,20,> 20 Lakh,Yes,Convenience (no petrol pumps ),4 Wheeler,1700000,Tata,,Yes,Yes,4 Wheeler,,,Electric Vehicles
+Maharashtra,Urban,21,< 5 Lakh,No,,,,,,Yes,Yes,2 Wheeler,100000,High fuel prices,Electric Vehicles
+Karnataka,Urban,22,< 5 Lakh,No,Environmentally better,2 Wheeler,100000,Ola,67,Yes,Yes,2 Wheeler,100000,Better performance,Electric Vehicles
+Maharashtra,Urban,21,< 5 Lakh,Yes,Trendy,2 Wheeler,,Ola,100,No,Yes,2 Wheeler,100000,High fuel prices,Electric Vehicles
+Maharashtra,Urban,20,5 - 10 Lakh,No,,,,,,Yes,Yes,4 Wheeler,1500000,High fuel prices,Electric Vehicles
+Maharashtra,Sub Urban,20,< 5 Lakh,No,,,,,,Yes,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,Yes,Environmentally better,2 Wheeler,110000,Ola,100,Yes,Yes,4 Wheeler,1500000,Environmentally better,Electric Vehicles
+Telangana,Urban,17,< 5 Lakh,Yes,Environmentally better,2 Wheeler,80000,Kinetic,75,Yes,Yes,4 Wheeler,200000,Environmentally better,Electric Vehicles
+Telangana,Urban,16,15 - 20 Lakh,No,,3 Wheeler,,,,Yes,Yes,2 Wheeler,100000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,26,< 5 Lakh,No,,,,,,,Yes,4 Wheeler,,,Electric Vehicles
+Maharashtra,Urban,21,10 - 15 Lakh,No,,,,,,Yes,Yes,2 Wheeler,150000,Environmentally better,Electric Vehicles
+Maharashtra,Sub Urban,21,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,70000,Environmentally better,Electric Vehicles
+Telangana,Urban,18,< 5 Lakh,No,,,,,,,No,,,,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Maharashtra,Sub Urban,21,< 5 Lakh,No,,,,,,Yes,Yes,2 Wheeler,100000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,21,5 - 10 Lakh,No,,,,,,,Yes,,,,Electric Vehicles
+Karnataka,Urban,23,5 - 10 Lakh,Yes,Convenience (no petrol pumps ),2 Wheeler,150000,Ather,84,Yes,Yes,4 Wheeler,800000,Convenience (no petrol pumps ),Electric Vehicles
+Maharashtra,Sub Urban,21,10 - 15 Lakh,No,,,,,,Yes,Yes,2 Wheeler,,,Electric Vehicles
+Maharashtra,Urban,22,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,2000000,Environmentally better,Electric Vehicles
+Maharashtra,Rural,23,< 5 Lakh,No,Environmentally better,2 Wheeler,100000,Ola,90,Yes,Yes,2 Wheeler,100000,Environmentally better,Electric Vehicles
+Maharashtra,Sub Urban,27,5 - 10 Lakh,Yes,High fuel Prices,2 Wheeler,96000,Okinawa ,90,Yes,No,,,,Electric Vehicles
+Maharashtra,Rural,21,5 - 10 Lakh,No,,,,,,,Yes,2 Wheeler,,Environmentally better,Internal Combustion Vehicles
+Maharashtra,Urban,20,< 5 Lakh,No,Convenience (no petrol pumps ),2 Wheeler,35000,Tata,120,Yes,Yes,2 Wheeler,10000,Convenience (no petrol pumps ),Electric Vehicles
+Maharashtra,Rural,19,10 - 15 Lakh,No,Environmentally better,4 Wheeler,,Nexon,,Yes,Yes,4 Wheeler,,Environmentally better,Internal Combustion Vehicles
+Maharashtra,Sub Urban,26,< 5 Lakh,Yes,Environmentally better,2 Wheeler,,Ather,50,Yes,Yes,2 Wheeler,120000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,21,< 5 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,70000,High fuel prices,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Bihar,Sub Urban,21,5 - 10 Lakh,No,,,,,,Yes,Yes,4 Wheeler,1500000,Environmentally better,Internal Combustion Vehicles
+Maharashtra,Urban,21,5 - 10 Lakh,No,,,,,,,Yes,,,,Electric Vehicles
+Telangana,Sub Urban,15,15 - 20 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Telangana,Urban,19,5 - 10 Lakh,No,,,,,,,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+Maharashtra,Urban,21,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,40000,Convenience (no petrol pumps ),Electric Vehicles
+Maharashtra,Rural,27,10 - 15 Lakh,No,Better performance,4 Wheeler,100000,Ola,30,Yes,Yes,2 Wheeler,,Better performance,Electric Vehicles
+Maharashtra,Sub Urban,22,5 - 10 Lakh,No,Environmentally better,4 Wheeler,,Tata,,,Yes,,,,Electric Vehicles
+Telangana,Urban,45,15 - 20 Lakh,No,,,,,,,Yes,2 Wheeler,120000,Environmentally better,Electric Vehicles
+Telangana,Urban,17,15 - 20 Lakh,No,,,,,,Maybe,No,,,,Internal Combustion Vehicles
+Maharashtra,Urban,21,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,60000,Trendy,Electric Vehicles
+Maharashtra,Urban,20,< 5 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,100000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,19,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,60000,Environmentally better,Electric Vehicles
+Telangana,Urban,18,< 5 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Telangana,Urban,42,< 5 Lakh,Yes,Trendy,2 Wheeler,80000,Kinetic ,,Yes,Yes,4 Wheeler,500000,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Urban,18,5 - 10 Lakh,No,,,,,,Yes,Yes,4 Wheeler,100000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,20,< 5 Lakh,No,,,,,,Yes,Yes,3 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Sub Urban,18,< 5 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Telangana,Urban,14,10 - 15 Lakh,No,,,,,,Yes,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Maharashtra,Sub Urban,21,< 5 Lakh,No,Convenience (no petrol pumps ),2 Wheeler,20000,Tata,,Maybe,Yes,2 Wheeler,,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Urban,18,< 5 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Urban,18,> 20 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+Maharashtra,Rural,20,< 5 Lakh,No,,,,,,,No,,,,Electric Vehicles
+Telangana,Urban,18,5 - 10 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,30000,Environmentally better,Electric Vehicles
+Telangana,Urban,20,< 5 Lakh,No,,,,,,No,No,,,,Internal Combustion Vehicles
+Telangana,Urban,19,15 - 20 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,100000,High fuel prices,Internal Combustion Vehicles
+Maharashtra,Rural,20,< 5 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Maharashtra,Urban,20,< 5 Lakh,No,High fuel Prices,,,,,,Yes,,,,Electric Vehicles
+Telangana,Urban,18,> 20 Lakh,No,,,,,,Yes,Yes,2 Wheeler,,,Electric Vehicles
+Telangana,Sub Urban,19,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Urban,20,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,1000000,Environmentally better,Electric Vehicles
+Telangana,Urban,18,> 20 Lakh,No,,,,,,,Yes,4 Wheeler,2000000,Environmentally better,Internal Combustion Vehicles
+Telangana,Urban,18,5 - 10 Lakh,No,,,,,,,Yes,2 Wheeler,70000,Convenience (no petrol pumps ),Internal Combustion Vehicles
+Telangana,Urban,20,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,,,Electric Vehicles
+Telangana,Urban,21,> 20 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,200000,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Urban,19,5 - 10 Lakh,No,,,,,,Maybe,No,4 Wheeler,,High fuel prices,Internal Combustion Vehicles
+Telangana,Urban,17,15 - 20 Lakh,No,Convenience (no petrol pumps ),2 Wheeler,,,,No,No,,,,Internal Combustion Vehicles
+Maharashtra,Urban,21,< 5 Lakh,No,,,,,,,No,,,,Electric Vehicles
+Telangana,Urban,16,5 - 10 Lakh,No,,,,,,,Yes,2 Wheeler,,Environmentally better,Internal Combustion Vehicles
+Haryana,Urban,18,< 5 Lakh,No,,,,,,,Yes,4 Wheeler,,High fuel prices,Electric Vehicles
+Andhra Pradesh,Urban,18,< 5 Lakh,No,,,,,,Yes,No,,100000,,Electric Vehicles
+Telangana,Urban,61,15 - 20 Lakh,No,,,,,,,Yes,4 Wheeler,1200000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,26,5 - 10 Lakh,No,,,,,,,No,,,,Electric Vehicles
+Telangana,Urban,19,> 20 Lakh,No,,,,,,,Yes,4 Wheeler,500000,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Urban,20,< 5 Lakh,No,Environmentally better,2 Wheeler,,Vespa,,Maybe,No,4 Wheeler,,Convenience (no petrol pumps ),Internal Combustion Vehicles
+Tamil Nadu,Urban,20,> 20 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Telangana,Urban,17,> 20 Lakh,No,,,,,,Yes,Yes,2 Wheeler,,Better performance,Electric Vehicles
+Maharashtra,Urban,35,5 - 10 Lakh,No,Environmentally better,2 Wheeler,100000,,25,Yes,Yes,2 Wheeler,70000,Environmentally better,Electric Vehicles
+Telangana,Urban,17,< 5 Lakh,Yes,Better performance,2 Wheeler,105000,Pure,120,Yes,Yes,2 Wheeler,105000,Better performance,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,2 Wheeler,,,,,Yes,2 Wheeler,,,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,No,No,,,,Internal Combustion Vehicles
+Telangana,Urban,16,10 - 15 Lakh,No,Environmentally better,2 Wheeler,,Tata,10,Yes,Yes,2 Wheeler,80000,High fuel prices,Electric Vehicles
+Telangana,Urban,19,> 20 Lakh,No,,,,,,,Yes,4 Wheeler,,,Electric Vehicles
+Delhi,Urban,25,15 - 20 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Urban,17,< 5 Lakh,No,,,,,,,Yes,4 Wheeler,900000,Environmentally better,Electric Vehicles
+Maharashtra,Sub Urban,27,5 - 10 Lakh,No,,2 Wheeler,60000,Honda,,Yes,Yes,4 Wheeler,300000,High fuel prices,Electric Vehicles
+Telangana,Urban,19,10 - 15 Lakh,Yes,Convenience (no petrol pumps ),2 Wheeler,75000,Eve,,Maybe,No,,,,Internal Combustion Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,100000,Environmentally better,Internal Combustion Vehicles
+Telangana,Urban,19,15 - 20 Lakh,No,,,,,,Yes,Yes,4 Wheeler,2000000,Environmentally better,Electric Vehicles
+Telangana,Urban,17,15 - 20 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,200000,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Sub Urban,16,> 20 Lakh,No,,,,,,No,No,4 Wheeler,,,Internal Combustion Vehicles
+Telangana,Urban,19,5 - 10 Lakh,No,,,,,,,Yes,2 Wheeler,100000,Better performance,Electric Vehicles
+Telangana,Urban,17,< 5 Lakh,No,Convenience (no petrol pumps ),3 Wheeler,,Vespa,,Maybe,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Rural,20,10 - 15 Lakh,No,,,,,,Yes,Yes,4 Wheeler,400000,High fuel prices,Electric Vehicles
+Telangana,Urban,20,< 5 Lakh,No,,,,,,,No,,,,Electric Vehicles
+Uttar Pradesh,Urban,19,< 5 Lakh,No,Better performance,2 Wheeler,100000,Tata,300,Maybe,Yes,2 Wheeler,100000,Better performance,Electric Vehicles
+Telangana,Urban,17,> 20 Lakh,No,,,,,,,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Sub Urban,19,15 - 20 Lakh,Yes,Environmentally better,2 Wheeler,113000,,92,Yes,Yes,,,,Electric Vehicles
+Telangana,Rural,15,< 5 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,100000,Better performance,Electric Vehicles
+Telangana,Urban,25,5 - 10 Lakh,No,,,,,,,Yes,4 Wheeler,500000,Environmentally better,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,100000,High fuel prices,Internal Combustion Vehicles
+Telangana,Urban,22,< 5 Lakh,No,,,,,,,Yes,4 Wheeler,1000000,Environmentally better,Electric Vehicles
+Telangana,Urban,20,< 5 Lakh,No,High fuel Prices,2 Wheeler,80000,Ather,150,Yes,Yes,2 Wheeler,80000,Better performance,Electric Vehicles
+Telangana,Urban,13,> 20 Lakh,No,,,,,,Yes,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,Maybe,Yes,4 Wheeler,3500000,Environmentally better,Electric Vehicles
+Telangana,Urban,20,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,0,High fuel prices,Electric Vehicles
+Telangana,Urban,19,5 - 10 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,100000,High fuel prices,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,Maybe,Yes,2 Wheeler,,Environmentally better,Internal Combustion Vehicles
+Telangana,Urban,17,10 - 15 Lakh,Yes,Environmentally better,2 Wheeler,,Mahindra,,Yes,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Urban,17,5 - 10 Lakh,No,,,,,,,Yes,2 Wheeler,90000,High fuel prices,Electric Vehicles
+Telangana,Urban,17,10 - 15 Lakh,No,,,,,,,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+Bihar,Rural,17,5 - 10 Lakh,No,Environmentally better,2 Wheeler,0,,50,Maybe,No,2 Wheeler,2000000,Environmentally better,Electric Vehicles
+Telangana,Rural,20,< 5 Lakh,No,Environmentally better,2 Wheeler,100000,Hero,,Yes,Yes,2 Wheeler,200000,Environmentally better,Electric Vehicles
+Karnataka,Rural,21,< 5 Lakh,No,Environmentally better,4 Wheeler,75000,,250,Yes,Yes,4 Wheeler,750000,Environmentally better,Electric Vehicles
+Bihar,Urban,26,> 20 Lakh,No,,,,,,Yes,Yes,2 Wheeler,500000,High fuel prices,Electric Vehicles
+Telangana,Urban,21,> 20 Lakh,Yes,Convenience (no petrol pumps ),2 Wheeler,200000,Tata,,Yes,Yes,3 Wheeler,200000,Better performance,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,2000000,Convenience (no petrol pumps ),Internal Combustion Vehicles
+Telangana,Sub Urban,19,< 5 Lakh,No,,,,,,,Yes,4 Wheeler,,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Sub Urban,20,> 20 Lakh,No,,,,,,,Yes,4 Wheeler,,,Internal Combustion Vehicles
+Bihar,Sub Urban,18,15 - 20 Lakh,No,,,,,,,Yes,4 Wheeler,2000000,High fuel prices,Electric Vehicles
+West Bengal,Rural,22,< 5 Lakh,No,,,,,,Yes,Yes,2 Wheeler,100000,High fuel prices,Electric Vehicles
+West Bengal,Urban,25,10 - 15 Lakh,Yes,High fuel Prices,2 Wheeler,80000,Bajaj,60,Yes,Yes,4 Wheeler,100000,High fuel prices,Electric Vehicles
+Delhi,Urban,18,5 - 10 Lakh,No,,,,,,,Yes,2 Wheeler,100000,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Sub Urban,17,> 20 Lakh,No,High fuel Prices,4 Wheeler,3000000,Tata,1000,Yes,Yes,4 Wheeler,1000000,High fuel prices,Electric Vehicles
+Maharashtra,Rural,22,< 5 Lakh,No,,,,,,,No,,,,Electric Vehicles
+Maharashtra,Urban,21,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,1500000,Better performance,Electric Vehicles
+Uttar Pradesh,Urban,17,5 - 10 Lakh,No,Environmentally better,4 Wheeler,1600000,Mahindra,70,Maybe,Yes,4 Wheeler,200000,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Sub Urban,16,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Haryana,Urban,18,< 5 Lakh,No,,,,,,Maybe,Yes,4 Wheeler,,Environmentally better,Internal Combustion Vehicles
+Telangana,Urban,20,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,100000,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Urban,17,10 - 15 Lakh,No,,,,,,Yes,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Maharashtra,Urban,19,10 - 15 Lakh,No,,,,,,,Yes,4 Wheeler,,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Urban,18,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,,,Internal Combustion Vehicles
+West Bengal,Sub Urban,21,< 5 Lakh,No,,,,,,,Yes,,,,Electric Vehicles
+Telangana,Urban,19,< 5 Lakh,No,,,,,,Maybe,Yes,4 Wheeler,800000,Environmentally better,Electric Vehicles
+Karnataka,Urban,15,10 - 15 Lakh,No,,,,,,,Yes,4 Wheeler,1500000,Convenience (no petrol pumps ),Electric Vehicles
+Telangana,Urban,20,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,30000,Better performance,Electric Vehicles
+Telangana,Urban,22,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,1,High fuel prices,Electric Vehicles
+Telangana,Sub Urban,14,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,,Better performance,Electric Vehicles
+Telangana,Urban,19,5 - 10 Lakh,No,,,,,,,Yes,2 Wheeler,200000,High fuel prices,Electric Vehicles
+Telangana,Urban,16,5 - 10 Lakh,No,,,,,,,No,,,,Electric Vehicles
+Karnataka,Urban,18,< 5 Lakh,No,,,,,,,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Urban,17,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,100000,High fuel prices,Internal Combustion Vehicles
+Telangana,Urban,17,< 5 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Telangana,Urban,19,> 20 Lakh,No,,,,,,Maybe,Yes,4 Wheeler,500000,Better performance,Electric Vehicles
+Andhra Pradesh,Urban,20,> 20 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Karnataka,Urban,16,< 5 Lakh,No,,,,,,Yes,Yes,2 Wheeler,1000000,Environmentally better,Electric Vehicles
+Karnataka,Urban,21,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Urban,23,< 5 Lakh,No,,,,,,Yes,Yes,2 Wheeler,90000,Environmentally better,Electric Vehicles
+Maharashtra,Sub Urban,24,< 5 Lakh,No,,,,,,,Yes,2 Wheeler,60000,Environmentally better,Electric Vehicles
+Karnataka,Urban,18,< 5 Lakh,No,,,,,,,Yes,,,,Electric Vehicles
+Karnataka,Urban,18,< 5 Lakh,No,Environmentally better,,,Tata,,Yes,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+Telangana,Urban,22,< 5 Lakh,No,,,,,,,No,,,,Electric Vehicles
+Telangana,Urban,6,< 5 Lakh,Yes,Environmentally better,2 Wheeler,100000,Hero,,Yes,No,2 Wheeler,0,Trendy,Electric Vehicles
+Telangana,Urban,14,5 - 10 Lakh,Yes,Environmentally better,2 Wheeler,,,,Yes,Yes,2 Wheeler,,,Electric Vehicles
+Telangana,Urban,21,10 - 15 Lakh,No,,,,,,Maybe,Yes,4 Wheeler,1500000,Environmentally better,Electric Vehicles
+Telangana,Urban,18,5 - 10 Lakh,Yes,Environmentally better,2 Wheeler,72000,Hero,,Maybe,Yes,2 Wheeler,90000,Better performance,Electric Vehicles
+West Bengal,Urban,17,5 - 10 Lakh,No,,,,,,,Yes,2 Wheeler,,Environmentally better,Electric Vehicles
+West Bengal,Urban,18,5 - 10 Lakh,No,High fuel Prices,4 Wheeler,5500000,Audi,400,Yes,Yes,2 Wheeler,200000,Environmentally better,Electric Vehicles
+Maharashtra,Urban,18,< 5 Lakh,No,,,,,,,Yes,4 Wheeler,600000,Environmentally better,Electric Vehicles
+West Bengal,Urban,18,< 5 Lakh,No,,,,,,,Yes,,,,Electric Vehicles
+West Bengal,Urban,18,< 5 Lakh,No,,,,,,No,No,,,,Internal Combustion Vehicles
+West Bengal,Urban,18,> 20 Lakh,No,,,,,,Yes,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+West Bengal,Urban,19,< 5 Lakh,Yes,Better performance,2 Wheeler,100000,Ola,130,Yes,Yes,4 Wheeler,1500000,Environmentally better,Electric Vehicles
+Jharkhand,Urban,18,< 5 Lakh,Yes,Convenience (no petrol pumps ),2 Wheeler,90000,Tata,40,Maybe,Yes,2 Wheeler,100000,Environmentally better,Internal Combustion Vehicles
+Odisha,Urban,20,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,,Environmentally better,Electric Vehicles
+West Bengal,Urban,19,> 20 Lakh,No,,,,,,Yes,Yes,4 Wheeler,1000000,Convenience (no petrol pumps ),Electric Vehicles
+West Bengal,Sub Urban,19,< 5 Lakh,No,,,,,,,Yes,4 Wheeler,13,High fuel prices,Electric Vehicles
+Rajasthan,Urban,18,< 5 Lakh,No,,,,,,Yes,Yes,4 Wheeler,1000000,Better performance,Electric Vehicles
+Goa,Sub Urban,21,5 - 10 Lakh,Yes,Convenience (no petrol pumps ),4 Wheeler,2872500,Tata,18,Yes,Yes,4 Wheeler,3000000,Convenience (no petrol pumps ),Electric Vehicles
+Rajasthan,Urban,18,< 5 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Kerala,Rural,21,< 5 Lakh,No,,,,,,Yes,No,4 Wheeler,,Environmentally better,Electric Vehicles
+Bihar,Sub Urban,18,< 5 Lakh,Yes,High fuel Prices,4 Wheeler,,,200,Yes,Yes,4 Wheeler,5000000,High fuel prices,Internal Combustion Vehicles
+Odisha,Urban,18,< 5 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
+Gujarat,Rural,16,< 5 Lakh,No,,,,,,,Yes,,,,Electric Vehicles
+West Bengal,Urban,19,< 5 Lakh,No,,,,,,,No,,,,Internal Combustion Vehicles
